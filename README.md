@@ -2,4 +2,6 @@
 
 For more details.
 
-Please, review hackathon_instruction.pdf
+Please, review below instructions:
+
+1. hackathon_instruction : Gives detailed instructions about hackathon. 
