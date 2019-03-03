@@ -9,4 +9,4 @@ Please, review below instructions:
 3. sample input target variables: contains input and target variable values for above sample files.
 4. training-set: contains documents and target variable, which can be used for training the model.
 5. test-set: predict model based on test-set
- 
+6. readability: contains function code for most of the input variables for a model.
