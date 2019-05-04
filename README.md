@@ -10,3 +10,4 @@ Please, review below instructions:
 4. training-set: contains documents and target variable, which can be used for training the model.
 5. test-set: predict model based on test-set
 6. readability: contains function code for most of the input variables for a model.
+7. For more information, read the report.
